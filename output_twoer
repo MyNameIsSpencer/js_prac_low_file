@@ -1,0 +1,106 @@
+========== GLOBAL ==========
+undefined
+multiply: 34318790
+adding: 17667
+true
+isNan don' work gud.
+1 0 1530661618554 999 NaN
+10.33 34 60 40
+15445  2222
+{ firstName: 'John', lastName: 'Doe' }
+{"firstName":"John","lastName":"Doe"}
+John
+
+
+
+========== MATH. ==========
+3.141592653589793
+4
+1.4426950408889634
+2.43
+1.369438406004566
+3.6882538673612966
+0.2013579207903308
+0.19869011034924142
+0.19739555984988078
+0.4636476090008061
+0.2027325540540822
+
+// VVV  cubic root
+3
+2.302585092994046
+99
+7
+81
+0.5479166460797664
+35
+34
+
+
+
+========== NUMBER ==========
+2343.123456
+2.343123456e+3
+2.3431e+3
+2343.123
+2.34e+3
+2343.123456
+
+
+
+========== JS OPERATORS ==========
+{ firstName: 'Ronald', lastName: 'Gulphwux', age: 55 }
+{ lastName: 'Gulphwux', age: 55 }
+{ lastName: 'Gulphwux', age: 55, firstName: 'Herald' }
+true
+false
+true
+
+instanceof
+false
+true
+false
+
+
+========== JS STATEMENTS ==========
+23
+11
+7
+89
+99
+10
+lastName
+age
+firstName
+55 is a Nice age
+
+
+========== String Methods ==========
+d
+100
+true
+d
+true
+25
+44
+-1
+0
+1
+[ 'er', 'er' ]
+
+// VVV repeat cat
+cat cat cat cat
+Here comes all the other cat  who don't agree with you.
+25
+dolphins who don't agree with you.
+dolphins who don't agree
+[ 'dolphins', 'who', 'don\'t', 'agree', '' ]
+true
+comes all the other
+comes all the o
+when did that happen??
+WHEN DID THAT HAPPEN??
+2343.123456
+number
+   Get ready for a hair cut.
+Get ready for a hair cut.
